@@ -3,10 +3,11 @@
 <h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
 <br>
 <div align="center">
-<img src="https://i.imgur.com/56UkQbs.gif">
+<img src="https://i.pinimg.com/originals/bd/22/12/bd22126371bf5109aceab92256c690fe.gif">
+<h1 align="center"> <p><a href="lolware1.github.io/me">~  Git Server: lolware1.github.io/me/  ~</h1>
+</a><p>
 </div>
 <br>
-
 
 <h2 align="center"> 👁️‍🗨️ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 👁️‍🗨️ </h2>
 
@@ -14,130 +15,38 @@
 > neofetch
 ```
 
-<img align="left" src="img/asuka.png" width="130px"/> 
+<img align="left" src="https://imgur.com/CCI9dgl.png" width="130px"/> 
 
 ```csharp
 My Profile v2.0.2: 破壊「はかい」
 -------------------------------
-Username: John.
+Username: Phofeeding.
 WhoamI: physicist and Computer Engineer. Also musician (more or less).
 OS: Ubuntu 22.04.1 LTS.
 Shell: Bash.
-Telegram: @yoshimakayaba.
-FavouriteAnime: 五等分の花嫁 (The Quintessential Quintuplets)💒📕👰🏻
-Loves: 中野五月 (Nakano Itsuki) (❤️ ω ❤️), Videogames 🎮, To play my piano 🎹.
-Pronouns: He-Him.
+Languages: C,C++, Python.
+Hobbyes: Python, C, C++.
+Loves: 惣流・アスカ・ラングレー (Sōryū Asuka Rangurē) (❤️ ω ❤️), Videogames 🎮, To play chess ♟️.
+Pronouns: she-her.
 Location: Planet Kepler-452b.
 Languages: C,C++, Python.
 Hobbyes: Python, C, C++.
 Learning: Swift, Kotlin.
-FavouriteSong: Sweeter than wine by NCW.
-FavouriteEquation: Fourier transform. 
 Hobbies: Gaming,Watching anime,Coding 
 while I am listening music.
-My Favourite singers (アイドル):  高橋李依 (Rie Takahashi) and  雨宮天 (Sora Amamiya). 🎤🎶🎼
-
+FavouriteSong: Automotivo Espanca Vizinho 2.0.
 ```
-
-
-<div>
-<br>
-<br>
-<br>
-<br>
-
-<p align="right"><a href = "https://www.youtube.com/watch?v=ziZX0vy8xAM"><img src = "https://i.ytimg.com/vi/ziZX0vy8xAM/maxresdefault.jpg" width = "170" align = "left"/></a><b>奏(かなで)CV:高橋李依とCV:雨宮天<br>
-                  🎵ふたりはいつもどんな時もつながっていける。🎵</b></p>
-<br>
-<br>
-
-<p align="left"><a href = "https://www.youtube.com/watch?v=oXlEEXws3gc"><img  src ="https://i.ytimg.com/vi/oXlEEXws3gc/maxresdefault.jpg" width="170" align="right"></a><b><br><br>高橋李依🎶「共感されなくてもいいじゃない」。🎶🆙</b></p>
-
-<br>
-<br>
-
-<p align="right"><a href="https://www.youtube.com/watch?v=jC97suFyObw"><img src="https://i.ytimg.com/vi/jC97suFyObw/maxresdefault.jpg" width="170" align="left"></a><b><br>雨宮天🎶「ロンリーナイト・ディスコティック」。🎶💌</b></p>
-<br>
-</div>
-<br>
-
-<div>
-<h2 align="center"> 🔎Knowledge📖 </h2>
-</div>
-<div align = "center">
-<p align = "justify">I like to do some projects on Jupyter Notebook and solve some math problems or sometimes I use Machine Learning for explaining easy examples of Data Science. I love the challenges because I try to think other possibilities to solve some problems using different programming languages. <br></p>
-<p align = "center">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="40" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="40" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="40" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="40" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="40" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="40" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="40" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="40" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" />   
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="40" />  </p>
-<img src = "https://pa1.narvii.com/6676/28fc433fbc9f88242405a217ee62c0efad2b7a7f_hq.gif" width = "460px" align="center">
-</div>
-
-<br>
-
-<h2 align = "center"> 📉 GitHub Stats</h2>
-<div>
-<p align = "center">
-    <a href="https://github-readme-stats.vercel.app">
-        <img width="49%" alt="Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=J3xLe1988B3lx0x2E6&count_private=true&theme=algolia&show_icons=true&hide_border=true"/>
-    </a>
-    <a href="https://github-readme-streak-stats.herokuapp.com">
-        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=J3xLe1988B3lx0x2E6&theme=algolia&hide_border=true&date_format=%5BY%20%5DM%20j"/>
-    </a>
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=J3xLe1988B3lx0x2E6&theme=algolia&row=4&column=7"/>
-    </a>
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=J3xLe1988B3lx0x2E6&hide_border=true&theme=algolia&layout=compact" align="center" width = "49%" />
-</p>
-</div>
-<div align="center"></div>  
-<br>
-
-# My contributions game 🐍🎮
-
-![](https://raw.githubusercontent.com/J3xLe1988B3lx0x2E6/J3xLe1988B3lx0x2E6/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/J3xLe1988B3lx0x2E6/J3xLe1988B3lx0x2E6/output/github-contribution-grid-snake.svggh-light-mode-only)
-<br>
-
-<h2 align ="center"> 📝 Contact me 📝</h2>
-<br> 
-<div align="center">
-<a href="https://github.com/J3xLe1988B3lx0x2E6" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/JohnWilliamBn" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/juan-ang-1307191b0" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  <br><img src = "https://i.pinimg.com/originals/59/36/21/5936211051bd2b5b8d14442230a9f4b4.gif" width = "400"/>
-</div>  
-
-
-
-</div>  
-<br>
-<div>
-<h2 align="center">Thank you for reading 🙋🏻‍♂️</h2>
-<div>
+<h2 align="center">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
+ <br>
 <p>
-<img src="https://c.tenor.com/O097AH2p5EEAAAAC/nakano-itsuki-go-toubun-no-hanayome.gif" align="right" />
-<img src = "https://spotify-github-profile.vercel.app/api/view?uid=12174580645&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true" align = "left" width="200px"/>
-   </p>
+  <div align="center">
+<img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
   </div>
-<br> 
+</div>
+<div>
+  <br>
+<p align="center"><img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br>
+ <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <br><br>
+Im also very good at making bots for discord and scripting for lego games, I also have knowledge about pc building.
+</p>
 <br>
-<br>
-<br>
-<br>
-
-
