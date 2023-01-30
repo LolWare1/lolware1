@@ -5,9 +5,7 @@
 <div align="center">
 <img src="https://i.pinimg.com/originals/bd/22/12/bd22126371bf5109aceab92256c690fe.gif">
 <h1 align="center"> <p><a href="lolware1.github.io/me">~  Git Server: lolware1.github.io/me/  ~</h1>
-</a><p>
-</div>
-<br>
+
 
 <h2 align="center"> 👁️‍🗨️ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 👁️‍🗨️ </h2>
 
