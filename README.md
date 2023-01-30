@@ -36,7 +36,7 @@ FavouriteSong: Automotivo Espanca Vizinho 2.0.
  <br>
 <p>
   <div align="center">
-<img src="https://i.pinimg.com/originals/fd/4b/0c/fd4b0ccb02128042e656e6961ef0e0fe.gif" width="600px" align="right">
+<img src="https://i.pinimg.com/originals/fd/4b/0c/fd4b0ccb02128042e656e6961ef0e0fe.gif" align="right">
   </div>
 </div>
 <div>
