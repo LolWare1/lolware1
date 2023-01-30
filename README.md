@@ -40,7 +40,7 @@ FavouriteSong: Automotivo Espanca Vizinho 2.0.
  <br>
 <p>
   <div align="center">
-<img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
+<img src="https://i.pinimg.com/originals/fd/4b/0c/fd4b0ccb02128042e656e6961ef0e0fe.gif" align="right">
   </div>
 </div>
 <div>
@@ -50,3 +50,26 @@ FavouriteSong: Automotivo Espanca Vizinho 2.0.
 Im also very good at making bots for discord and scripting for lego games, I also have knowledge about pc building.
 </p>
 <br>
+</p>
+<br>
+<h2 align="center">           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
+  <div align="center">
+<img src="https://i.pinimg.com/originals/ec/90/67/ec9067a3dec72cb0ef6f6dcf6701f9ea.gif" align="right" width="373.5px" height="208.5px">
+  </div>
+<br>
+<p align="center">Hewe awe some of my <br>
+most used s-s-sociaw things >~< xoxox</p>
+<p align="center"><a href="https://twitter.com/Kuazinada" target="_blank"><img src="https://img.shields.io/badge/Kuazinada%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href=" https://discord.com/invite/dCZDqMhsxK" target="_blank"><img src="https://img.shields.io/badge/Amitty...%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
+</div>
+<br>
+<div>
+<h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
+<div align="center">
+<img src="https://i.pinimg.com/originals/d9/82/8c/d9828c9adaa51dd6e2e66b48787e4023.gif">
+</div>
+<hr>
+</div>
+</div>
+    </center>
+</body>
+
