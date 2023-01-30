@@ -4,9 +4,7 @@
 <br>
 <div align="center">
 <img src="https://i.pinimg.com/originals/bd/22/12/bd22126371bf5109aceab92256c690fe.gif">
-<h1 align="center"> <p><a href="lolware1.github.io/me">~  Git Server: lolware1.github.io/me/  ~</h1>
-
-
+  
 <h2 align="center"> 👁️‍🗨️ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 👁️‍🗨️ </h2>
 
 ```zsh
@@ -58,6 +56,7 @@ Im also very good at making bots for discord and scripting for lego games, I als
 <p align="center">Hewe awe some of my <br>
 most used s-s-sociaw things >~< xoxox</p>
 <p align="center"><a href="https://twitter.com/Kuazinada" target="_blank"><img src="https://img.shields.io/badge/Kuazinada%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href=" https://discord.com/invite/dCZDqMhsxK" target="_blank"><img src="https://img.shields.io/badge/Amitty...%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
+<p align="center"<p><a href="lolware1.github.io/me/"> Git Server: lolware1.github.io/me/</a><p>
 </div>
 <br>
 <div>
