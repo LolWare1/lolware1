@@ -10,7 +10,7 @@
 <br>
 
 ```zsh
-> neofetch
+> lolware1.github.io/me/
 ```
 
 <img align="left" src="https://imgur.com/CCI9dgl.png" width="130px"/> 
