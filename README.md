@@ -6,6 +6,8 @@
 <img src="https://i.pinimg.com/originals/bd/22/12/bd22126371bf5109aceab92256c690fe.gif">
   
 <h2 align="center"> 👁️‍🗨️ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 👁️‍🗨️ </h2>
+</div>
+<br>
 
 ```zsh
 > neofetch
