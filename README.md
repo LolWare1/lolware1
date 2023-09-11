@@ -32,7 +32,7 @@ Hobbyes: Python, C, C++.
 Learning: Swift, Kotlin.
 Hobbies: Gaming,Watching anime,Coding 
 while I am listening music.
-FavouriteSong: Automotivo Espanca Vizinho 2.0.
+FavouriteSong: ギザバ怪文書 - cosMo＠暴走P feat.音街ウナ
 ```
 <h2 align="center">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
  <br>
