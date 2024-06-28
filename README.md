@@ -20,7 +20,7 @@ My Profile v2.0.2: 破壊「はかい」
 -------------------------------
 Username: Phofeeding.
 WhoamI: physicist and Computer Engineer. Also musician (more or less).
-OS: Arch Linux a26-14.
+OS: Ubuntu 22.04.1 LTS.
 Shell: Bash.
 Languages: C,C++, Python.
 Hobbyes: Python, C, C++.
