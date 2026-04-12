@@ -10,7 +10,7 @@
 <br>
 
 ```zsh
-> lolware1.github.io/me/
+> https://phofe.vercel.app/
 ```
 
 <img align="left" src="https://imgur.com/CCI9dgl.png" width="130px"/> 
