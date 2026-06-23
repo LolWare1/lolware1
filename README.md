@@ -30,6 +30,10 @@ Learning: Swift, Kotlin.
 Hobbies: Gaming,Watching anime,Coding 
 while I am listening music.
 FavouriteSong: Graveyard Productions - Grab My Mask
+'
+'
+'
+'
 ```
 <h2 align="center">            ~  Knowledge  ~</h2>
  <br>
